@@ -12,21 +12,13 @@ The maintainers:
 
   - Changelogs for each build. These MUST be user-friendly, simplifying the changes for the average user who aren't aware of things like Safetynet or color calibration, but would like to know what has changed since the last update. 
 
-- **MUST** test every build before sending an OTA update to users. Each build must be thoroughly vetted by the maintainer before it is released, and all hardware and software functionalities MUST be tested before a build is released. Releasing untested builds can (and will) lead to your maintainership being revoked.
-
-- **MUST** ship the Standard/Normal Edition builds monthly while shipping the Plus Edition builds are optional. If this is not possible, the reason(s) must be sent to the PE Administration. In the absence of any explanation, a maintainer will be contacted thrice. If there is no satisfactory answer or the administration does not receive a reply, the maintainer will be kicked without any prior warning. 
+- **MUST** test every build before sending an OTA update to users. Each build must be thoroughly vetted by the maintainer before it is released, and all hardware and software functionalities MUST be tested before a build is released. Releasing untested builds can (and will) lead to your maintainership being revoked. 
 
 - **MUST** maintain authorship of git commits that are pushed, this is a mandatory requirement for ALL repositories. Force-pushes are acceptable, but try to keep them to a minimum.
 
 - In the event of any disagreements between maintainers, sort them out via direct messages on Telegram or XDA. Do not take your fights to our chats, approach the administration if you want something sorted out quickly. The same is valid for our public chat. "We don't do this here".
 
 - **MUST NOT** add:
-
-  - Any features in their device specific packages, eg. configpanel, XiaomiParts, etc., like KCAL, force Camera API2, etc.
-
-    Features that are device specific and are available in stock firmware, eg. Alert Slider and Offscreen gestures for some OnePlus Devices, Fingerprint Gestures and MotoActions for Motorola Devices, are allowed.
-
-    Dirac Sound or any audio enhancer is allowed, but it MUST be a device's ROM stock feature, or else it's not allowed. The same must be working fine; otherwise, it can't be shipped.
 
   - Playground or anything else related to getting Pixel-like features that aren't available from the ROM sources - only GoogleCamera and ARCore are acceptable. 
 
@@ -46,7 +38,7 @@ The maintainers:
 
   - Do any modifications that may lead to Magisk not work, as per the [Kernel Guidelines](https://github.com/AOSPK/docs/blob/master/kernel_guidelines.md).
 
-- If you're a maintainer of an A/B partition or a dynamic partition device, you **MUST NOT** ship TWRP prebuilt. Instead, the maintainer **MUST** ship the AOSP Recovery made available by us.
+- If you're a maintainer of an A/B partition or a dynamic partition device, you **MUST NOT** ship TWRP prebuilt. 
 
 - About proprietary files, the maintainers **MUST**:
 
@@ -64,8 +56,6 @@ The maintainers:
 
 - About Sepolicy Rules, the maintainers **MUST NOT**:
 
-  - Ignore Sepolicy Neverallows.
-
-  - Allow write access to generic directory/file/prop labels (With some exceptions).
+  - Ignore Sepolicy Neverallows, only if is for testing purposes.
 
 If any of these rules are broken, the administration will take direct action against the maintainer without prior warning.
