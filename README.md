@@ -1,8 +1,17 @@
 **Important Links:**
 
-- [Website](http://download.aospk.org/)
-- [Gerrit Code Review](http://gerrit.aospk.org/)
-- [Apply for official devices](https://github.com/AOSPK/official_devices)
-- [Telegram Channel](https://t.me/AOSPKNews)
-- [Telegram Group](https://t.me/AOSPKChat)
-- [Device tree sources](https://github.com/AOSPK-Devices/)
+- [Website](http://aosp.revtechs.me/)
+- [Apply for official devices](https://github.com/ONEOS-AOSP-S/official_devices)
+- [Telegram Channel](https://t.me/OneOS_AOSPNews)
+- [Device tree sources](https://github.com/ONEOS-AOSP-s-Devices/)
+
+**Credits:**
+
+- [AOSPK: BASE](http://github.com/AOSPK)
+- [ArrowOS](https://github.com/ArrowOS)
+- [Fluid Project](https://github.com/Project-Fluid)
+- [Nusantara Project](https://github.com/NusantaraProject-ROM)
+- [Octavi OS](https://github.com/Octavi-OS)
+- [Voltage OS](https://github.com/VoltageOS)
+- [Palladium OS](https://github.com/Palladium-OS)
+
