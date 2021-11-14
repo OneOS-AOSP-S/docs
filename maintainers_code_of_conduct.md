@@ -8,7 +8,7 @@ The maintainers:
 
 - **MUST** upload:
 
-  - All theirs device sources on [ONEOS-AOSP-S-Devices](https://github.com/ONEOS-AOSP-S-Devices) organization. It goes without saying that these should be fully buildable. Using external repos for build releases aren't allowed, unless they're from LineageOS/TheMuppets organization(s). Exceptions may be open if only it's absolutely necessary.
+  - All theirs device sources on [ONEOS-AOSP-S-Devices](https://gitlab.com/OneOS-AOSP/devices) organization. It goes without saying that these should be fully buildable. Using external repos for build releases aren't allowed, unless they're from LineageOS/TheMuppets organization(s). Exceptions may be open if only it's absolutely necessary.
 
   - Changelogs for each build. These MUST be user-friendly, simplifying the changes for the average user who aren't aware of things like Safetynet or color calibration, but would like to know what has changed since the last update. 
 
