@@ -9,6 +9,8 @@
 
 - [AOSPK: BASE](http://github.com/AOSPK)
 - [ArrowOS](https://github.com/ArrowOS)
+- [CHerishOS](https://github.com/CherishOS)
+- [Evolution X](https://github.com/Evolution-X)
 - [Fluid Project](https://github.com/Project-Fluid)
 - [Nusantara Project](https://github.com/NusantaraProject-ROM)
 - [Octavi OS](https://github.com/Octavi-OS)
