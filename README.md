@@ -1,9 +1,9 @@
 **Important Links:**
 
 - [Website](http://aosp.revtechs.me/)
-- [Apply for official devices](https://github.com/ONEOS-AOSP-S/official_devices)
+- [Apply for official devices](https://gitlab.com/OneOS-AOSP/official_devices)
 - [Telegram Channel](https://t.me/OneOS_AOSPNews)
-- [Device tree sources](https://github.com/ONEOS-AOSP-s-Devices/)
+- [Device tree sources](https://gitlab.com/OneOS-AOSP/devices)
 
 **Credits:**
 
